@@ -1,0 +1,12 @@
+Task 01
+
+When you increased the number of iterations from 100 to 1000, several important changes occurred
+
+- Weights Adjustment:
+        The weights in both W1 and W2 have been adjusted more significantly with more iterations. This indicates that the neural network has had more time to learn and fine-tune the weights through the backpropagation process.
+- Output Closer to Desired Output:
+        With 100 iterations, the output was [[0.178, 0.8771]] compared to the desired output [[0.01, 0.99]].
+        With 1000 iterations, the output improved to [[0.0447, 0.9569]], which is much closer to the desired output.
+- Reduction in Error:
+        The error decreased significantly from 0.020492276763740064 with 100 iterations to 0.0011478118530415641 with 1000 iterations. This indicates that the model's predictions are much closer to the desired outputs, and the network has learned better.
+
