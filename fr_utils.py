@@ -13,7 +13,6 @@ from tensorflow.keras.layers import MaxPooling2D, AveragePooling2D
 import h5py
 import matplotlib.pyplot as plt
 
-
 _FLOATX = 'float32'
 
 def variable(value, dtype=_FLOATX, name=None):
