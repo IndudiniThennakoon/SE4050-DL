@@ -13,6 +13,10 @@
    - Specifically, ensure the screenshot of `output[2]` from the face recognition task is included.
    - Note: `output[2]` is a dictionary containing the L2 distance between the target image encoding and the database embeddings of other images.
 
-## Submission:
+## NOTE:
+-The `weights.zip` file is not added to the repository. Please download it using the [provided drive link](https://drive.google.com/drive/folders/1IExxks0GFQCCj6z8Wh0lWxW7NRndclZS?usp=sharing)
+-The images of `Indudini Thennakoon` and `Madhusha Silva` have been added to the images folder.
+-The answer sheet, including screenshots for Task 6 to Task 8, is in the `IT21170966_labsheet3_Answer.docx` word document.
+-The modified notebook is available in the repository.
 
-**Upload** the modified notebook, two new images, and the Word file to the CourseWeb submission link as a zip file. The zip file name should be **your registration number**.
+
