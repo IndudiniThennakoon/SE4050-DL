@@ -5,7 +5,7 @@
 
 2. Zip all folders and files in `lab5.zip` except `lab5_labsheet.docx` and `Autonomous_driving_application_car_detection.ipynb`, and upload the zip file to a Google Drive folder.
 
-3. Upload the Jupyter notebook (`Autonomous_driving_application_car_detection.ipynb`) to the Google Colab root directory. ![image](https://github.com/user-attachments/assets/fd77cd15-5a1c-401c-bd33-362f48b3efdd)
+3. Upload the Jupyter notebook (`Autonomous_driving_application_car_detection.ipynb`) to the Google Colab root directory.</br> ![image](https://github.com/user-attachments/assets/fd77cd15-5a1c-401c-bd33-362f48b3efdd)
 4. In the uploaded notebook, change the path in the second cell to the path of the zip file (created and uploaded in Step 2) and run the first two cells.Root directory should look similar to the below image after this. 
 
 5. Go through the `Autonomous_driving_application_car_detection.ipynb` notebook and try to understand the code.
@@ -16,7 +16,7 @@
      - A zip file containing all the above images in the Colab root as well as in your Google Drive.
 
 7. In the below-given cell, the shape of `boxes.eval()` is `(17834)`. Why are there 1783 boxes? Explain the reason for it. What is the maximum number and minimum number you can get for that? Write these answers in a word file.
-     - Change the values like `mean` and `stddev` in lines 2 and 4, as well as the `threshold` value in line 5, and observe the different values you get for `boxes.eval().shape` </br> ![image](https://github.com/user-attachments/assets/61d20675-3902-49ac-9f8f-1d18b2d6d823)
+     - Change the values like `mean` and `stddev` in lines 2 and 4, as well as the `threshold` value in line 5, and observe the different values you get for `boxes.eval().shape` </br></br> ![image](https://github.com/user-attachments/assets/61d20675-3902-49ac-9f8f-1d18b2d6d823)
 8. `yolo_anchors.txt` contains 10 values. They can be considered as the height and width of 5 anchor boxes. What is the advantage of using such anchor boxes? What was the method used to determine the sizes of these anchor boxes? Give the answers to these questions in the Word file.
 
 9. Upload a new traffic image to the `images` directory and edit the code as needed to detect vehicles in that image.
