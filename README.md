@@ -1,5 +1,5 @@
 
-## NOTE:
+## 🏷️ NOTE:
 - The answer sheet, including screenshots for Task 6 to Task 8, is in the `IT21170966_labsheet3_Answer.docx` word document.
 - The modified notebook (`Face_Recognition_for_the_Happy_House_v2.ipynb`) is available in the repository.
 - The images of `Indudini Thennakoon` and `Madhusha Silva` have been added to the images folder.
