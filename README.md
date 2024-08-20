@@ -5,7 +5,7 @@
 
 2. Zip all folders and files in `lab5.zip` except `lab5_labsheet.docx` and `Autonomous_driving_application_car_detection.ipynb`, and upload the zip file to a Google Drive folder.
 
-3. Upload the Jupyter notebook (`Autonomous_driving_application_car_detection.ipynb`) to the Google Colab root directory.</br> ![image](https://github.com/user-attachments/assets/fd77cd15-5a1c-401c-bd33-362f48b3efdd)
+3. Upload the Jupyter notebook (`Autonomous_driving_application_car_detection.ipynb`) to the Google Colab root directory. </br> ![image](https://github.com/user-attachments/assets/fd77cd15-5a1c-401c-bd33-362f48b3efdd)
 4. In the uploaded notebook, change the path in the second cell to the path of the zip file (created and uploaded in Step 2) and run the first two cells.Root directory should look similar to the below image after this. 
 
 5. Go through the `Autonomous_driving_application_car_detection.ipynb` notebook and try to understand the code.
