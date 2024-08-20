@@ -1,9 +1,12 @@
 
 ## NOTE:
-- The `weights.zip` file is not added to the repository. Please download it using the [provided drive link](https://drive.google.com/drive/folders/1IExxks0GFQCCj6z8Wh0lWxW7NRndclZS?usp=sharing)
-- The images of `Indudini Thennakoon` and `Madhusha Silva` have been added to the images folder.
 - The answer sheet, including screenshots for Task 6 to Task 8, is in the `IT21170966_labsheet3_Answer.docx` word document.
 - The modified notebook (`Face_Recognition_for_the_Happy_House_v2.ipynb`) is available in the repository.
+- The images of `Indudini Thennakoon` and `Madhusha Silva` have been added to the images folder.
+- The `weights.zip` file is not added to the repository. Please download it using the [provided drive link](https://drive.google.com/drive/folders/1IExxks0GFQCCj6z8Wh0lWxW7NRndclZS?usp=sharing)
+
+
+
 
 
 # DeepLearning – Labsheet 3
