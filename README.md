@@ -24,3 +24,6 @@
    - Specifically, ensure the screenshot of `output[2]` from the face recognition task is included.
    - Note: `output[2]` is a dictionary containing the L2 distance between the target image encoding and the database embeddings of other images.
 
+     
+<sub><sup>📌 *documented by @IndudiniThennakoon 2024* </sup></sub>
+
