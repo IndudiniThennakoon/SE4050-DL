@@ -1,3 +1,11 @@
+# 🏷️ NOTE:
+- The answer sheet, including screenshots form Task 7 is in the `IT21170966_labsheet4_Answer.docx` word document.
+- The modified notebook (`Autonomous_driving_application_car_detection.ipynb`) is available in the repository.
+- The images of `Indudini Thennakoon` and `Madhusha Silva` have been added to the images folder.
+- The newly added traffic image has been uploaded to the repository as `traffic.jpg` (related to Task 9).
+- The downloaded output images zip file (`out_score_0.6_iou_0.5_.zip`) has been included in the repository (related to Task 9).
+
+
 # Deep Learning - Lab 4 – YOLO Object Detection
 
 1. Download the `yolo_v2.h5` weights file from the Google Drive link below. It contains the YOLO version 2 pre-trained model weights. Copy the downloaded file to the `model_data` directory.
