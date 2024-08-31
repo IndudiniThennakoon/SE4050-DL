@@ -1,3 +1,7 @@
+
+# 🏷️ NOTE:
+- The modified answer notebooks (`IT21170966_Q1.ipynb`, `IT21170966_Q2.ipynb`,`IT21170966_Q3.ipynb`) are available in the repository.
+- The supported dataset (`IMDB Dataset.cvs`) for the task 3 is [available in this link ]([https://github.com/jeewaka-p/SE4050-DL-Lecture02](https://mysliit-my.sharepoint.com/:x:/r/personal/harini_g_sliit_lk/_layouts/15/Doc.aspx?sourcedoc=%7B162B1FB4-603D-4B15-B74E-1DB517ADFC6B%7D&file=IMDB%20Dataset.csv&action=default&mobileredirect=true))
 # Deep Learning – Lab 5
 
 ## Comprehensive RNN and LSTM Model Implementation
